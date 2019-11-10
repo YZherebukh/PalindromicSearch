@@ -3,5 +3,7 @@
 
 ### How to run
     To run app, use the following command:
-    
-go run main.go -numb=n, where n is any digit
+
+    ```go run main.go -numb=n```
+
+where n is any digit
