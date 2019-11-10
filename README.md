@@ -4,6 +4,6 @@
 ### How to run
     To run app, use the following command:
 
-    ```go run main.go -numb=n```
+    go run main.go -numb=n
 
-where n is any digit
+    where n is any digit
